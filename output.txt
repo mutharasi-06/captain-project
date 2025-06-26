@@ -1,0 +1,12 @@
+C:\Users\YourName> javac ArrayOperations.java
+C:\Users\YourName> java ArrayOperations
+Enter 5 different numbers:
+12
+7
+25
+3
+18
+Sorted array:
+3 7 12 18 25
+Second Lowest: 7
+Second Highest: 18
